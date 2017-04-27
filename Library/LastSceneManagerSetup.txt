@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AddedStuff/CustomPhotoDemo.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AddedStuff/AddedScripts/ChangeMaterialScript.cs">
+    <Files>
+      <File FileName="Assets/AddedStuff/AddedScripts/ChangeMaterialScript.cs" Line="20" Column="2" />
+      <File FileName="Assets/AddedStuff/AddedScripts/MenuScript.cs" Line="57" Column="4" />
+      <File FileName="Assets/GoogleVR/Scripts/Controller/Internal/Emulator/EmulatorClientSocket.cs" Line="1" Column="1" />
+      <File FileName="Assets/AddedStuff/AddedScripts/AudioManager.cs" Line="32" Column="17" />
+      <File FileName="Assets/OrbBehaviuor.cs" Line="21" Column="83" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/albertolladoviader/Daydream Test RenderImg/Assets/AddedStuff/AddedScripts/AudioManager.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
